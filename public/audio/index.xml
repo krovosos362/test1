@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audios on Test site</title>
+    <link>/audio/</link>
+    <description>Recent content in Audios on Test site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Nov 2022 16:12:47 +0100</lastBuildDate><atom:link href="/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natalie Merchant</title>
+      <link>/audio/kilez-more-new-world-order/</link>
+      <pubDate>Tue, 01 Nov 2022 16:12:47 +0100</pubDate>
+      
+      <guid>/audio/kilez-more-new-world-order/</guid>
+      <description>Ну, я уже понял, что сюда можно воткнуть ссылки на аудио из spotify, soundcloud, tunein, mixcloud и т.д. А как воткнуть сюда просто локальный файл (например, mp3)? Во! Получилось, вроде. Нравится мне эта песенка&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

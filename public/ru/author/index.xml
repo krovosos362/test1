@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Сраный тестовый сайт</title>
+    <link>/ru/author/</link>
+    <description>Recent content in Author on Сраный тестовый сайт</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="/ru/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lednerb</title>
+      <link>/ru/author/lednerb/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/author/lednerb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Паштет</title>
+      <link>/ru/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</link>
+      <pubDate>Mon, 01 Nov 2021 14:40:32 +0100</pubDate>
+      
+      <guid>/ru/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
