@@ -1,4 +1,4 @@
-title = "Test site"
+title = "Mashka"
 baseURL = "/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
@@ -11,7 +11,7 @@ theme = "bilberry-hugo-theme"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -28,9 +28,9 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
+  author = "Pashtet"
   description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,pages,posts,multilingual,highlight.js,syntax highlighting,shortcuts"
+  keywords = "video,photo,galleries"
 
   # How many articles should be displayed at once?
   paginate = 10
@@ -39,7 +39,7 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
+  algolia_search    = false
   algolia_appId     = "45CEN6X6AT"
   algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
   algolia_indexName = "bilberry-hugo-theme"
@@ -76,17 +76,17 @@ disqusShortname = ""
     # let hugo automatically resize and crop your images to the correct sizes
     # NB: When enabled the image files get renamed by adding additional information,
     #     even if the image has the correct sizes.
-    resizeImages = true
+    resizeImages = false
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "самая любимая дочь"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "code@lednerb.de"
 
     # set an path to the image file you want to use | overwrites avatar by email
-    customImage = "me2.jpg"
+    customImage = "/mashka1.jpeg"
 
     # define the icon you want to use for the overlay for the customImage or avatar.
     overlayIcon = "" # "fa-home"
@@ -99,7 +99,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -168,19 +168,17 @@ disqusShortname = ""
 # customize your available languages for your multi-lingual site
 # or delete one of the [Languages.xx] blocks to use the theme with only one supported language
 [Languages]
-  [Languages.en]
-    weight = 3
   [Languages.ru]
     weight = 2
-    title = "Сраный тестовый сайт"
-    subtitle = "Здорово, поцоны!"
+    title = "Маша и ..."
+    subtitle = "просто несколько видео и фото  галлерей"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
     [markup.goldmark.renderer]
       # change to 'true' if you need to render raw HTML within your markdown content
-      unsafe = false
+      unsafe = true
 
   [markup.tableOfContents]
     endLevel = 5

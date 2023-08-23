@@ -1,24 +1,23 @@
 ---
-title: "About Bilberry"
+title: "про тему Bilberry"
 date: 2021-11-01T13:18:45+01:00
-excludeFromTopNav: false
+weight: 3
 showDate: false
 ---
-Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
+Спасибо автору за эту клевую тему, которую можно скачать на [Hugo Static Website Builder](https://gohugo.io).
 
-It is full of little nice features, such as:
+В ней до хера клевых фенечек:
 
-- built-in integration for the wonderful [algolia search](https://algolia.com)
-- built-in integration for the powerful [disqus comments](https://disqus.com)
-- gravatar and custom image integration for the header
-- keyboard shortcut for the search (press the `s` key, type something and hit `enter` or `esc`)
-- responsive design - optimized for desktop and mobile devices
-- full internationalization (i18n) support (en, de, fr, ru, es out of the box!)
-- full multi-language support
-- custom post types (`article`, `audio`, `code`, `gallery`, `link`, `page`, `picture`, `quote`, `video`)
-    - easy configuration to add more according to your needs
+- интеграция с [Algolia-поиск](https://algolia.com)
+- интеграция с  [Disqus комментарии](https://disqus.com)
+- Встриваемая фотка в заголовок
+- Встроенный поиск (Жмакни `s`, напечатай что-нибудь, а потом жмакни `enter` для поиска, или `esc` для выхода)
+- Адаптивный дизайн - оптимизорован для настольных компов и смартфонов
+- Мультиязычность (en, de, fr, ru, es)
+- Различные типы постов (`article`, `audio`, `code`, `gallery`, `link`, `page`, `picture`, `quote`, `video`)
+    - легко можно добавить новые свои типы 
 
 
-*This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
+*Эта тема - адаптация разработки [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
 
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+**[Если че, то здесь по-подробнее](https://github.com/Lednerb/bilberry-hugo-theme)**
