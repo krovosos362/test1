@@ -16,7 +16,7 @@ tags: []
 
 И вот, она нарядная...
 
-<image src="ct.jpeg" width="250">
+<image src="elka.jpg" width="250">
 
 А вот видео распаковки:  
 
