@@ -1,0 +1,134 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Маша и ...</title>
+    <link>/</link>
+    <description>Recent content on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Машка и кони</title>
+      <link>/gallery/masha-and-koni/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-koni/</guid>
+      <description>В какой-то момент Машка вдруг влюбилась в лошадей. С одной стооны это увлечение кажется чут-чуть чрезмерным, а с другой - дает прекрасный инструмент управления.</description>
+    </item>
+    
+    <item>
+      <title>Машка и мама</title>
+      <link>/gallery/masha-and-mama/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-mama/</guid>
+      <description>&lt;p&gt;Они обе - очень клевые и любимые&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Машка и музыка</title>
+      <link>/gallery/masha-and-music/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-music/</guid>
+      <description>С самого детства Машка очень любила петь и играть на разных музыкальных инструментах. Правда, широкого признания зрительских масс пока нет&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Машка и собаки</title>
+      <link>/gallery/masha-and-dogs/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-dogs/</guid>
+      <description>В детстве Машка выражaла свою любовь к мелкому (Ники) с помощью пинков. Теперь Ники регулярно возвращает долг кусанием Машки. А купный (Рекс) беззаветно принал на себя роль Машкиного охранника и безpопотно сносит любые издевательства с ее стороны.</description>
+    </item>
+    
+    <item>
+      <title>Машка и транспорт</title>
+      <link>/gallery/masha-and-transport/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-transport/</guid>
+      <description>Машка избалована катанием на самых различных транспортных средствах</description>
+    </item>
+    
+    <item>
+      <title>Походик по Истре</title>
+      <link>/gallery/my-trip-with-mashka/</link>
+      <pubDate>Tue, 27 Jun 2023 11:53:00 +0300</pubDate>
+      
+      <guid>/gallery/my-trip-with-mashka/</guid>
+      <description>Как мы с Машкой сходили в водный походик на старой авиационной спасательной надувной лодке ЛАС-3 по р.Истре</description>
+    </item>
+    
+    <item>
+      <title>Новогодняя елка (видео)</title>
+      <link>/video/christmas-tree/</link>
+      <pubDate>Tue, 01 Nov 2022 16:23:40 +0100</pubDate>
+      
+      <guid>/video/christmas-tree/</guid>
+      <description>&lt;p&gt;Машка любит новогодние елки и любит их наряжать&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Умный дом - Москва</title>
+      <link>/link/my-smart-house/</link>
+      <pubDate>Tue, 01 Nov 2022 13:05:27 +0100</pubDate>
+      
+      <guid>/link/my-smart-house/</guid>
+      <description>Зайди на мой сайт умного дома</description>
+    </item>
+    
+    <item>
+      <title>Albert Einstein - Sinn Des Lebens</title>
+      <link>/quote/my-quote/</link>
+      <pubDate>Mon, 01 Nov 2021 14:40:32 +0100</pubDate>
+      
+      <guid>/quote/my-quote/</guid>
+      <description>Если тебе нечего скаазать - то сиди и не пизди</description>
+    </item>
+    
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>/code/installing-bilberry-theme/</link>
+      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
+      
+      <guid>/code/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
+on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Natalie Merchant</title>
+      <link>/audio/natalie-merchant/</link>
+      <pubDate>Tue, 29 Jun 2021 09:45:00 +0300</pubDate>
+      
+      <guid>/audio/natalie-merchant/</guid>
+      <description>&lt;p&gt;Ну, я уже понял, что сюда можно воткнуть ссылки на аудио из spotify, soundcloud, tunein, mixcloud  и т.д. А как воткнуть сюда просто локальный файл (например, mp3)? Во! Получилось, вроде.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/status/bilberry-theme-released/</link>
+      <pubDate>Tue, 15 Dec 2020 10:45:44 +0200</pubDate>
+      
+      <guid>/status/bilberry-theme-released/</guid>
+      <description>I&amp;rsquo;m glad to announce the release of the Bilberry Hugo theme. This premium theme is published under an open-source license (MIT), and you can use it free of charge. It took me a significant amount of time to create and refine this theme. This theme is a collaborative effort of numerous volunteers.</description>
+    </item>
+    
+    <item>
+      <title>Support and Discussions</title>
+      <link>/article/support-and-discussions/</link>
+      <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
+      
+      <guid>/article/support-and-discussions/</guid>
+      <description>Support for this theme is provided through the Issues and Discussions sections of the project. Please use the Issues section if you would like to report a defect or bug. For any other requests, use the Discussions section.
+Please use the following guidelines if you want to start a discussion:
+For any questions regarding a specific feature, or if you need help using or customizing the theme, use the Questions &amp;amp; Answers (Q&amp;amp;A) category.</description>
+    </item>
+    
+  </channel>
+</rss>

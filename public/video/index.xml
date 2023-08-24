@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Маша и ...</title>
+    <link>/video/</link>
+    <description>Recent content on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Nov 2022 16:23:40 +0100</lastBuildDate><atom:link href="/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новогодняя елка (видео)</title>
+      <link>/video/christmas-tree/</link>
+      <pubDate>Tue, 01 Nov 2022 16:23:40 +0100</pubDate>
+      
+      <guid>/video/christmas-tree/</guid>
+      <description>&lt;p&gt;Машка любит новогодние елки и любит их наряжать&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

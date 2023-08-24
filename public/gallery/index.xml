@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Маша и ...</title>
+    <link>/gallery/</link>
+    <description>Recent content on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate><atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Машка и кони</title>
+      <link>/gallery/masha-and-koni/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-koni/</guid>
+      <description>В какой-то момент Машка вдруг влюбилась в лошадей. С одной стооны это увлечение кажется чут-чуть чрезмерным, а с другой - дает прекрасный инструмент управления.</description>
+    </item>
+    
+    <item>
+      <title>Машка и мама</title>
+      <link>/gallery/masha-and-mama/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-mama/</guid>
+      <description>&lt;p&gt;Они обе - очень клевые и любимые&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Машка и музыка</title>
+      <link>/gallery/masha-and-music/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-music/</guid>
+      <description>С самого детства Машка очень любила петь и играть на разных музыкальных инструментах. Правда, широкого признания зрительских масс пока нет&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Машка и собаки</title>
+      <link>/gallery/masha-and-dogs/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-dogs/</guid>
+      <description>В детстве Машка выражaла свою любовь к мелкому (Ники) с помощью пинков. Теперь Ники регулярно возвращает долг кусанием Машки. А купный (Рекс) беззаветно принал на себя роль Машкиного охранника и безpопотно сносит любые издевательства с ее стороны.</description>
+    </item>
+    
+    <item>
+      <title>Машка и транспорт</title>
+      <link>/gallery/masha-and-transport/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-transport/</guid>
+      <description>Машка избалована катанием на самых различных транспортных средствах</description>
+    </item>
+    
+    <item>
+      <title>Походик по Истре</title>
+      <link>/gallery/my-trip-with-mashka/</link>
+      <pubDate>Tue, 27 Jun 2023 11:53:00 +0300</pubDate>
+      
+      <guid>/gallery/my-trip-with-mashka/</guid>
+      <description>Как мы с Машкой сходили в водный походик на старой авиационной спасательной надувной лодке ЛАС-3 по р.Истре</description>
+    </item>
+    
+  </channel>
+</rss>

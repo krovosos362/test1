@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zitate on Маша и ...</title>
+    <link>/categories/zitate/</link>
+    <description>Recent content in Zitate on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 01 Nov 2021 14:40:32 +0100</lastBuildDate><atom:link href="/categories/zitate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Einstein - Sinn Des Lebens</title>
+      <link>/quote/my-quote/</link>
+      <pubDate>Mon, 01 Nov 2021 14:40:32 +0100</pubDate>
+      
+      <guid>/quote/my-quote/</guid>
+      <description>Если тебе нечего скаазать - то сиди и не пизди</description>
+    </item>
+    
+  </channel>
+</rss>

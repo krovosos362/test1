@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Маша и ...</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dogs</title>
+      <link>/categories/dogs/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/dogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horses</title>
+      <link>/categories/horses/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/horses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mashka</title>
+      <link>/categories/mashka/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/mashka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mother</title>
+      <link>/categories/mother/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/mother/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport</title>
+      <link>/categories/transport/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/categories/transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Tue, 01 Nov 2022 16:23:40 +0100</pubDate>
+      
+      <guid>/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Home</title>
+      <link>/categories/smart-home/</link>
+      <pubDate>Tue, 01 Nov 2022 13:05:27 +0100</pubDate>
+      
+      <guid>/categories/smart-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zitate</title>
+      <link>/categories/zitate/</link>
+      <pubDate>Mon, 01 Nov 2021 14:40:32 +0100</pubDate>
+      
+      <guid>/categories/zitate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/categories/code/</link>
+      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
+      
+      <guid>/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>/categories/tutorials/</link>
+      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
+      
+      <guid>/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

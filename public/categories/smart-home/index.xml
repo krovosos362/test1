@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Home on Маша и ...</title>
+    <link>/categories/smart-home/</link>
+    <description>Recent content in Smart Home on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Nov 2022 13:05:27 +0100</lastBuildDate><atom:link href="/categories/smart-home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Умный дом - Москва</title>
+      <link>/link/my-smart-house/</link>
+      <pubDate>Tue, 01 Nov 2022 13:05:27 +0100</pubDate>
+      
+      <guid>/link/my-smart-house/</guid>
+      <description>Зайди на мой сайт умного дома</description>
+    </item>
+    
+  </channel>
+</rss>

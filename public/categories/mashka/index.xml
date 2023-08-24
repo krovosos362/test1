@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mashka on Маша и ...</title>
+    <link>/categories/mashka/</link>
+    <description>Recent content in Mashka on Маша и ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate><atom:link href="/categories/mashka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Машка и музыка</title>
+      <link>/gallery/masha-and-music/</link>
+      <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
+      
+      <guid>/gallery/masha-and-music/</guid>
+      <description>С самого детства Машка очень любила петь и играть на разных музыкальных инструментах. Правда, широкого признания зрительских масс пока нет&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Походик по Истре</title>
+      <link>/gallery/my-trip-with-mashka/</link>
+      <pubDate>Tue, 27 Jun 2023 11:53:00 +0300</pubDate>
+      
+      <guid>/gallery/my-trip-with-mashka/</guid>
+      <description>Как мы с Машкой сходили в водный походик на старой авиационной спасательной надувной лодке ЛАС-3 по р.Истре</description>
+    </item>
+    
+  </channel>
+</rss>
