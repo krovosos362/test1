@@ -20,4 +20,6 @@ tags: []
 
 А вот видео распаковки:  
 
-![](christmas-tree.mov)
+<video controls width="250">
+  <source src="christmas-tree.mov" type="video/mp4">
+</video>
