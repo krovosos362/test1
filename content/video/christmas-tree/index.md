@@ -20,6 +20,5 @@ tags: []
 
 А вот видео распаковки:  
 
-<video controls width="250">
-  <source src="christmas-tree.mov" type="video/mp4">
+<video controls width="250" src="christmas-tree.mov" style="display:block; margin: 0 auto;">
 </video>
