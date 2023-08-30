@@ -4,7 +4,7 @@ date: 2021-06-29T09:45:00+03:00
 draft: false
 
 featuredImage: "pic.jpg"
-categories: ['Music']
+categories: ['Музыка']
 tags: ['Natalie Merchant', 'Peppery man']
 
 # Set your audio url for

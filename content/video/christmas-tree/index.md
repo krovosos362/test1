@@ -1,9 +1,9 @@
 ---
-title: "Новогодняя елка (видео)"
+title: "Новогодние елки"
 date: 2022-11-01T16:23:40+01:00
-# videos: ["/video/dogs.mp4"]
+draft: false
 
-categories: ['Video']
+categories: [Video,Природа]
 tags: []
 
 # Set your video id for

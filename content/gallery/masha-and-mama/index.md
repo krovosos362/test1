@@ -5,7 +5,7 @@ draft: false
 
 imageSlider: true  #set to false if you don't want to use the imageSlider
 
-categories: [Mother]
+categories: [Родственники]
 tags: []
 author: "Pashtet"
 ---
