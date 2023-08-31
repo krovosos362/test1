@@ -1,5 +1,6 @@
 title = "Mashka"
 baseURL = "/"
+publishDir = "docs"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
