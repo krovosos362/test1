@@ -5,7 +5,7 @@ draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider as a featuredImafe
 
-categories: ['Кони']
+categories: [Животные]
 tags: []
 author: "Pashtet"
 ---
