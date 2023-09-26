@@ -1,7 +1,7 @@
 ---
 title: "Natalie Merchant"
 date: 2021-06-29T09:45:00+03:00
-draft: false
+draft: true
 
 featuredImage: "pic.jpg"
 categories: ['Музыка']
