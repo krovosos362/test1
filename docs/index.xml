@@ -1,87 +1,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Маша и ...</title>
-    <link>/</link>
+    <link>/mashka/</link>
     <description>Recent content on Маша и ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/mashka/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Машка и кони</title>
-      <link>/gallery/masha-and-koni/</link>
+      <link>/mashka/gallery/masha-and-koni/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-koni/</guid>
+      <guid>/mashka/gallery/masha-and-koni/</guid>
       <description>В какой-то момент Машка вдруг влюбилась в лошадей. С одной стооны это увлечение кажется чут-чуть чрезмерным, а с другой - дает прекрасный инструмент управления.</description>
     </item>
     
     <item>
       <title>Машка и мама</title>
-      <link>/gallery/masha-and-mama/</link>
+      <link>/mashka/gallery/masha-and-mama/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-mama/</guid>
+      <guid>/mashka/gallery/masha-and-mama/</guid>
       <description>&lt;p&gt;Они обе - очень клевые и любимые&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Машка и музыка</title>
-      <link>/gallery/masha-and-music/</link>
+      <link>/mashka/gallery/masha-and-music/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-music/</guid>
+      <guid>/mashka/gallery/masha-and-music/</guid>
       <description>С самого детства Машка очень любила петь и играть на разных музыкальных инструментах. Правда, широкого признания зрительских масс пока нет&amp;hellip;</description>
     </item>
     
     <item>
       <title>Машка и собаки</title>
-      <link>/gallery/masha-and-dogs/</link>
+      <link>/mashka/gallery/masha-and-dogs/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-dogs/</guid>
+      <guid>/mashka/gallery/masha-and-dogs/</guid>
       <description>В детстве Машка выражaла свою любовь к мелкому (Ники) с помощью пинков. Теперь Ники регулярно возвращает долг кусанием Машки. А купный (Рекс) беззаветно принал на себя роль Машкиного охранника и безpопотно сносит любые издевательства с ее стороны.</description>
     </item>
     
     <item>
       <title>Машка и транспорт</title>
-      <link>/gallery/masha-and-transport/</link>
+      <link>/mashka/gallery/masha-and-transport/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-transport/</guid>
+      <guid>/mashka/gallery/masha-and-transport/</guid>
       <description>&lt;p&gt;Машка избалована катанием на самых различных транспортных средствах&lt;/p&gt;
 &lt;p&gt;А есть еще и видео:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Машка, родственники и взрослые друзья</title>
-      <link>/gallery/masha-and-kinsfolk/</link>
+      <link>/mashka/gallery/masha-and-kinsfolk/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-kinsfolk/</guid>
+      <guid>/mashka/gallery/masha-and-kinsfolk/</guid>
       <description>&lt;p&gt;К сожалению, не все бабушки-дедушки додждались Машку, но имеющиеся любят ее за всех остальных. Забавно, что друзья машкиных родителей становятся и машкиными друзьями&lt;/p&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;</description>
     </item>
     
     <item>
       <title>Походик по Истре</title>
-      <link>/gallery/my-trip-with-mashka/</link>
+      <link>/mashka/gallery/my-trip-with-mashka/</link>
       <pubDate>Tue, 27 Jun 2023 11:53:00 +0300</pubDate>
       
-      <guid>/gallery/my-trip-with-mashka/</guid>
+      <guid>/mashka/gallery/my-trip-with-mashka/</guid>
       <description>Как мы с Машкой сходили в водный походик на старой авиационной спасательной надувной лодке ЛАС-3 по р.Истре</description>
     </item>
     
     <item>
       <title>Новогодние елки</title>
-      <link>/video/christmas-tree/</link>
+      <link>/mashka/video/christmas-tree/</link>
       <pubDate>Tue, 01 Nov 2022 16:23:40 +0100</pubDate>
       
-      <guid>/video/christmas-tree/</guid>
+      <guid>/mashka/video/christmas-tree/</guid>
       <description>&lt;p&gt;Машка любит новогодние елки и любит их наряжать&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Natalie Merchant</title>
+      <link>/mashka/audio/natalie-merchant/</link>
+      <pubDate>Tue, 29 Jun 2021 09:45:00 +0300</pubDate>
+      
+      <guid>/mashka/audio/natalie-merchant/</guid>
+      <description>&lt;p&gt;Ну, я уже понял, что сюда можно воткнуть ссылки на аудио из spotify, soundcloud, tunein, mixcloud  и т.д. А как воткнуть сюда просто локальный файл (например, mp3)? Во! Получилось, вроде.&lt;/p&gt;</description>
     </item>
     
   </channel>

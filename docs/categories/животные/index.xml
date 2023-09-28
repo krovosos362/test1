@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Животные on Маша и ...</title>
-    <link>/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</link>
+    <link>/mashka/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</link>
     <description>Recent content in Животные on Маша и ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate><atom:link href="/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 15:27:17 +0300</lastBuildDate><atom:link href="/mashka/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Машка и кони</title>
-      <link>/gallery/masha-and-koni/</link>
+      <link>/mashka/gallery/masha-and-koni/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-koni/</guid>
+      <guid>/mashka/gallery/masha-and-koni/</guid>
       <description>В какой-то момент Машка вдруг влюбилась в лошадей. С одной стооны это увлечение кажется чут-чуть чрезмерным, а с другой - дает прекрасный инструмент управления.</description>
     </item>
     
     <item>
       <title>Машка и собаки</title>
-      <link>/gallery/masha-and-dogs/</link>
+      <link>/mashka/gallery/masha-and-dogs/</link>
       <pubDate>Wed, 16 Aug 2023 15:27:17 +0300</pubDate>
       
-      <guid>/gallery/masha-and-dogs/</guid>
+      <guid>/mashka/gallery/masha-and-dogs/</guid>
       <description>В детстве Машка выражaла свою любовь к мелкому (Ники) с помощью пинков. Теперь Ники регулярно возвращает долг кусанием Машки. А купный (Рекс) беззаветно принал на себя роль Машкиного охранника и безpопотно сносит любые издевательства с ее стороны.</description>
     </item>
     

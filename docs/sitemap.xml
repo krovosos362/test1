@@ -2,86 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/page/about-site/</loc>
+    <loc>/mashka/page/about-site/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
   </url><url>
-    <loc>/page/about-bilberry/</loc>
+    <loc>/mashka/page/about-bilberry/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>/mashka/gallery/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/author/</loc>
+    <loc>/mashka/author/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/mashka/categories/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/author/pashtet/</loc>
+    <loc>/mashka/author/pashtet/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</loc>
+    <loc>/mashka/categories/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/mashka/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-koni/</loc>
+    <loc>/mashka/gallery/masha-and-koni/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-mama/</loc>
+    <loc>/mashka/gallery/masha-and-mama/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-music/</loc>
+    <loc>/mashka/gallery/masha-and-music/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-dogs/</loc>
+    <loc>/mashka/gallery/masha-and-dogs/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-transport/</loc>
+    <loc>/mashka/gallery/masha-and-transport/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/gallery/masha-and-kinsfolk/</loc>
+    <loc>/mashka/gallery/masha-and-kinsfolk/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/categories/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</loc>
+    <loc>/mashka/categories/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/categories/%D1%80%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/</loc>
+    <loc>/mashka/categories/%D1%80%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/categories/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82/</loc>
+    <loc>/mashka/categories/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82/</loc>
     <lastmod>2023-08-16T15:27:17+03:00</lastmod>
   </url><url>
-    <loc>/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</loc>
+    <loc>/mashka/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</loc>
     <lastmod>2023-06-27T11:53:00+03:00</lastmod>
   </url><url>
-    <loc>/gallery/my-trip-with-mashka/</loc>
+    <loc>/mashka/gallery/my-trip-with-mashka/</loc>
     <lastmod>2023-06-27T11:53:00+03:00</lastmod>
   </url><url>
-    <loc>/categories/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0/</loc>
+    <loc>/mashka/categories/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0/</loc>
     <lastmod>2023-06-27T11:53:00+03:00</lastmod>
   </url><url>
-    <loc>/video/</loc>
+    <loc>/mashka/video/</loc>
     <lastmod>2022-11-01T16:23:40+01:00</lastmod>
   </url><url>
-    <loc>/categories/video/</loc>
+    <loc>/mashka/categories/video/</loc>
     <lastmod>2022-11-01T16:23:40+01:00</lastmod>
   </url><url>
-    <loc>/video/christmas-tree/</loc>
+    <loc>/mashka/video/christmas-tree/</loc>
     <lastmod>2022-11-01T16:23:40+01:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>/mashka/page/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
   </url><url>
-    <loc>/article/</loc>
+    <loc>/mashka/audio/</loc>
+    <lastmod>2021-06-29T09:45:00+03:00</lastmod>
   </url><url>
-    <loc>/audio/</loc>
+    <loc>/mashka/tags/natalie-merchant/</loc>
+    <lastmod>2021-06-29T09:45:00+03:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>/mashka/audio/natalie-merchant/</loc>
+    <lastmod>2021-06-29T09:45:00+03:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/mashka/tags/peppery-man/</loc>
+    <lastmod>2021-06-29T09:45:00+03:00</lastmod>
   </url><url>
-    <loc>/archive/</loc>
+    <loc>/mashka/tags/</loc>
+    <lastmod>2021-06-29T09:45:00+03:00</lastmod>
+  </url><url>
+    <loc>/mashka/article/</loc>
+  </url><url>
+    <loc>/mashka/series/</loc>
+  </url><url>
+    <loc>/mashka/archive/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Паштет on Маша и ...</title>
-    <link>/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</link>
+    <link>/mashka/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/</link>
     <description>Recent content in Паштет on Маша и ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Jun 2023 11:53:00 +0300</lastBuildDate><atom:link href="/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 11:53:00 +0300</lastBuildDate><atom:link href="/mashka/author/%D0%BF%D0%B0%D1%88%D1%82%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Походик по Истре</title>
-      <link>/gallery/my-trip-with-mashka/</link>
+      <link>/mashka/gallery/my-trip-with-mashka/</link>
       <pubDate>Tue, 27 Jun 2023 11:53:00 +0300</pubDate>
       
-      <guid>/gallery/my-trip-with-mashka/</guid>
+      <guid>/mashka/gallery/my-trip-with-mashka/</guid>
       <description>Как мы с Машкой сходили в водный походик на старой авиационной спасательной надувной лодке ЛАС-3 по р.Истре</description>
     </item>
     

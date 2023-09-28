@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Маша и ...</title>
-    <link>/tags/</link>
+    <link>/mashka/tags/</link>
     <description>Recent content in Tags on Маша и ...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <lastBuildDate>Tue, 29 Jun 2021 09:45:00 +0300</lastBuildDate><atom:link href="/mashka/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natalie Merchant</title>
+      <link>/mashka/tags/natalie-merchant/</link>
+      <pubDate>Tue, 29 Jun 2021 09:45:00 +0300</pubDate>
+      
+      <guid>/mashka/tags/natalie-merchant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peppery man</title>
+      <link>/mashka/tags/peppery-man/</link>
+      <pubDate>Tue, 29 Jun 2021 09:45:00 +0300</pubDate>
+      
+      <guid>/mashka/tags/peppery-man/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

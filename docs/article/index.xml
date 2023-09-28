@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Маша и ...</title>
-    <link>/article/</link>
+    <link>/mashka/article/</link>
     <description>Recent content on Маша и ...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="/mashka/article/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
